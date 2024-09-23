@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTPowerPointPromptCrea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RASPIA_C#", "RASPIA_C#\RASPIA_C#.csproj", "{E68462E0-3074-4C9B-B65E-89D157ACF888}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Examples", "Method Examples\Method Examples.csproj", "{5C600017-AB66-4BC7-B37C-E20EDFAC7F84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E68462E0-3074-4C9B-B65E-89D157ACF888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E68462E0-3074-4C9B-B65E-89D157ACF888}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E68462E0-3074-4C9B-B65E-89D157ACF888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C600017-AB66-4BC7-B37C-E20EDFAC7F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C600017-AB66-4BC7-B37C-E20EDFAC7F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C600017-AB66-4BC7-B37C-E20EDFAC7F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C600017-AB66-4BC7-B37C-E20EDFAC7F84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
